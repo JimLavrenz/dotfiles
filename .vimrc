@@ -1,6 +1,5 @@
-syntax enable
+set syntax enable
 set number
-colorscheme default
 set guifont=Monospace\ 12
 set tabstop=4
 set showcmd
