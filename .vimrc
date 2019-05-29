@@ -1,4 +1,3 @@
-set syntax enable
 set number
 set guifont=Monospace\ 12
 set tabstop=4
